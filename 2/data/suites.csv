@@ -1,0 +1,10 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 20 14:59:02 GMT 2024","Wed Nov 20 14:59:02 GMT 2024","73","","allure_test","","","","Test Authentication","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
+"passed","Wed Nov 20 14:59:02 GMT 2024","Wed Nov 20 14:59:02 GMT 2024","0","","allure_test","","","","Test Authentication","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
+"passed","Wed Nov 20 14:59:02 GMT 2024","Wed Nov 20 14:59:02 GMT 2024","38","","allure_test","","","","Test Authentication","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
